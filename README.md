@@ -25,3 +25,6 @@ Repositories are classes or components that encapsulate the logic required to ac
 | `POST`  | /task/{task_id}/comment | Create comment on task require `task_id` and `name`,`description` body request  |
 |  `GET` | /task/{task_id}  | Get specific task by giver `task_id`   |
 | `PUT`  | /task/{task_id} | Edit task required `task_id` and `name` & `description` body request  |
+
+## Article about this Repo
+https://medium.com/tlabcircle/implementasi-repository-pattern-dengan-laravel-8-be32eaacbe2d
